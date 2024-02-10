@@ -1,0 +1,22 @@
+*{
+    margin : 0;
+    font-family: Arial;
+    border: border-box;
+}
+
+.navbar{
+    height: 80px;
+    background-color: #0f1111;
+    color : rgb(255, 125, 255);
+
+}
+.nav-logo{
+    height: 800px;
+    width: 80px;
+}
+.logo{
+    background-image: url("safety.jpeg");
+    background-size: cover;
+    height: 80px;
+    width: 100%;
+}
